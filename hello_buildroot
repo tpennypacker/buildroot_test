@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Buildroot remote install test successful!"
